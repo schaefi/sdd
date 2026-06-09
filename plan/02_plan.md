@@ -1,6 +1,6 @@
 # Agent
 
-Create new python project in ~/ai/example and execute the following tasks:
+Create documentation in python project in ~/ai/example and execute the following tasks:
 
-tasks/project.md
-tasks/init.md
+tasks/documentation.md
+tasks/man.md
